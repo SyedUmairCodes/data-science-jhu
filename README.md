@@ -7,3 +7,4 @@ The Specialization consists of 10-courses taught by leading professors at Johns 
 ## Courses - In the order they were taken
 
 1. Data Science Toolbox.
+2. R Programming.
